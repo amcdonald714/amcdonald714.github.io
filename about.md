@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Long Haul
+title: About amcdon
 ---
 
 <div class="post">
